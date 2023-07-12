@@ -1,1 +1,1 @@
-# odin-recipes
+Hello my name is Sammy and this is my recipe for my odin-project 
